@@ -1,0 +1,17 @@
+Iteration 1 start with 2 nodes
+0 3
+0 1 3
+--------------------------------------
+1 3
+1 0 3
+--------------------------------------
+--------------------------------------
+Find NGs with k = 2
+Finding NGs in 4e-06s
+Merging NGs in 8e-06s
+0 0
+--------------------------------------
+--------------------------------------
+Find NGs with k = 2
+Finding NGs in 3e-06s
+Iteration 1 compress 1 nodes in 3.3e-05s
